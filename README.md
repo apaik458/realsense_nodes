@@ -11,6 +11,10 @@ Install realsense-ros package
 ```bash
 sudo apt-get install ros-noetic-realsense2-camera
 ```
+Install Python dependencies
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 Start realsense nodes
